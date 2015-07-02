@@ -1,4 +1,7 @@
-1.查找文件
+#查找文件
  find 路径 -name '匹配规则' -print  eg. find ~ -name '*.txt' -print
  
-2.
+#查看ip信息
+ifconfig
+
+#
