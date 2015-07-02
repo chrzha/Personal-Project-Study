@@ -4,4 +4,5 @@
 #查看ip信息
 ifconfig
 
-#
+#grep用法
+
