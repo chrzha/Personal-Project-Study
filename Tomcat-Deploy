@@ -1,0 +1,7 @@
+# download tomcat and copy 3
+# modify connector port(default 8080), server shutdown port(default 8005) and close port(default 8009)
+# cp xxx.war  webapps/  -----copy war file 
+# mv xxx.war ROOT.war   -----rename war file(notice:if contextPath is v1,rename xxx.war to v1.war)
+# cd tomcat/bin         -----change dir
+# ./startup.sh          -----start tomcat
+# ./shutdown.sh         -----close tomcat
