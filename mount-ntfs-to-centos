@@ -2,4 +2,8 @@
 
 #mount -t ntfs-3g /dev/sda4 /mnt/winG
 
+/dev/sda1               /mnt/winC          ntfs-3g rw,umask=0000,defaults 0 0
+/dev/sda3               /mnt/winF          ntfs-3g rw,umask=0000,defaults 0 0
+/dev/sda5               /mnt/winG          ntfs-3g rw,umask=0000,defaults 0 0
+/dev/sda6               /mnt/winH          ntfs-3g rw,umask=0000,defaults 0 0
 
