@@ -1,0 +1,5 @@
+#####thanks for http://blog.chinaunix.net/uid-20752341-id-3289253.html
+
+#mount -t ntfs-3g /dev/sda4 /mnt/winG
+
+
